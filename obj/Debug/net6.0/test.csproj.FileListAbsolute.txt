@@ -1,0 +1,17 @@
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/bin/Debug/net6.0/test
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/bin/Debug/net6.0/test.deps.json
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/bin/Debug/net6.0/test.runtimeconfig.json
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/bin/Debug/net6.0/test.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/bin/Debug/net6.0/ref/test.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/bin/Debug/net6.0/test.pdb
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/bin/Debug/net6.0/MySqlConnector.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.csproj.CopyComplete
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/ref/test.dll
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.pdb
+/home/muhammad/Pictures/Uni/Visual_Programming/project/test/obj/Debug/net6.0/test.genruntimeconfig.cache
