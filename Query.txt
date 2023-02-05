@@ -1,0 +1,9 @@
+Today date is 31 Jun
+Querys check in sql 
+
+
+Sql injection
+Sql Parameter
+
+Connect Mode
+Disconnect Mode

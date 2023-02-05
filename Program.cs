@@ -46,13 +46,7 @@
 
 // // }
 
-
-
-// using MySqlConnector;
-
-// public class MyClass
-// {
-//     public static async Task Main(string[] args)
+//   public static async Task Main(string[] args)
 //     {
 //         string connString = "Server=127.0.0.1; Port=3306; Database=test; Uid=root@localhost;";
 //         using var connection = new MySqlConnection(connString);
@@ -68,18 +62,20 @@
 // // var myText = "My number is " + myNumber + " but I can count way more";
 
 //             string q = $"SELECT * FROM Admin WHERE Mobile LIKE {Mobile};";
-//             MySqlCommand cmd = new MySqlCommand(q, connection);
+//             MySqlCommand cmd = new MySqlCommand(q, connection); 
+            
 //             using var reader = await cmd.ExecuteReaderAsync();
 //             // result = true;
 //             // System.Console.WriteLine(reader.Read());
 //             while (reader.Read())
 //             {
-//                 System.Console.Write("\t");
+//                 // System.Console.Write("\t");
 //                 System.Console.Write(reader.GetValue(0).ToString());
 //                 System.Console.Write("\t");
 //                 System.Console.Write(reader.GetValue(1).ToString());
 //                 System.Console.Write("\t");
 //                 System.Console.Write(reader.GetValue(2).ToString());
+//                 System.Console.Write("\t");
 //                 System.Console.WriteLine(reader.GetValue(3).ToString());
 //                 System.Console.Write("\t");
 //             }
@@ -92,4 +88,28 @@
 //         }
 //     }
 
-// }
+
+using MySqlConnector;
+using StudentMangement;
+
+public class MyClass
+{
+   public static void Main(string[] args)
+   {
+      // AddRecord Sheraz1=new AddRecord();
+      // Sheraz1.AddData();
+   //    DisplayClass Sheraz=new DisplayClass();
+   //    Sheraz.Display();
+   //    Search Sheraz2=new Search();
+   //   Sheraz2.SearchData();
+     Delet Sheraz3=new Delet();
+     Sheraz3.AddData();
+
+
+
+   }
+  
+}
+
+
+// DELETE FROM `Admin` WHERE Mobile=987654321;
